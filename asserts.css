@@ -1,0 +1,25 @@
+/* img.background
+   {
+    background-image: url("photos/bgph.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 700px;     
+   } */
+ body{
+    background-color: #2872b730;
+ }
+    p{ text-decoration:aqua;
+      font-weight:bold;
+   } 
+
+h1
+   {text-align:  center;
+    color:red;
+    /* font-weight:bolder; */
+   }
+h2
+   {
+    text-align:center;
+    font-weight: 100;
+    color:blue;
+   }
